@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Chloe!
 
 🌐 **Student**  
-💻 2026 
+💻 2026
 🎨 Passionate about building beautiful, functional, and user-friendly web experiences !! 
 
 ### 🛠️ Tech Stack
